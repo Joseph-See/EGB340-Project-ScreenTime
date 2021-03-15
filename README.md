@@ -1,9 +1,9 @@
 # EGB340 Project-ScreenTime
 
 ## Group #038
-Ben Case
-Samo Kewa
-Joseph See
+*Ben Casey
+*Samo Kewa
+*Joseph See
 
 ## Goal
 
